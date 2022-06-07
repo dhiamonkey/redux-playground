@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Redux refresher
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a refresher of redux
 
 ## Available Scripts
 
